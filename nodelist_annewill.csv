@@ -1,11 +1,24 @@
-id,name,type
-Adam,Adam,Person
-Eva,Eva,Person
-Abraham,Abraham,Person
-Ismael,Ismael,Person
-Abraam,Abraam,Person
-Jakob,Jakob,Person
-Isaak,Isaak,Person
-Sara,Sara,Person
-Sarah,Sarah,Person
-Jakobi,Jakobi,Person
+id, name, party, sector, country
+uvdl, Ursula von der Leyen, CDU, Politik, Deutschland
+lk, Lars Klingbeil, SPD, Politik, Deutschland
+nr, Norbert Röttgen, CDU, Politik, Deutschland
+sw, Sahra Wagenknecht, LIN, Politik, Deutschland
+cs, Constanze Stelzenmüller, OHP, Journalismus, Deutschland
+cl, Christian Lindner , FDP, Politik, Deutschland
+ks, Karl Schlögel, OHP, Historiker, Deutschland
+lm, Ljudmyla Melnyk, OHP, Wissenschaft, Ukraine
+500, Folge 500			
+501, Folge 501			
+502, Folge 502			
+503, Folge 503			
+kd, Kristina Dunz, OHP, Journalismus, Deutschland 
+el, Egils Levits, ZZS, Politik, Lettland
+ab, Annalena Baerbock, GRU, Politik, Deutschland 
+ft, Frans Timmermans, PDA, Politik, Niederlande
+am, Andrij Melnyk, OHP, Diplomatie, Ukraine
+agl, Alexander Graf Lambsdorff, FDP, Politik, Deutschland 
+eg, Egon Ramms, OHP, Militär, Deutschland 
+rh, Robert Habeck, GRU, Politik, Deutschland 
+cm, Claudia Major, OHP, Wissenschaftt, Deutschland 
+kp, Katja Petrowskaja, OHP, Journalismus, Deutschland
+rk, Roderich Kiesewetter, CDU, Politik, Deutschland
